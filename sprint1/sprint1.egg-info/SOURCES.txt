@@ -1,0 +1,7 @@
+README.rst
+setup.py
+sprint1/__init__.py
+sprint1.egg-info/PKG-INFO
+sprint1.egg-info/SOURCES.txt
+sprint1.egg-info/dependency_links.txt
+sprint1.egg-info/top_level.txt
